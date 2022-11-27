@@ -12,10 +12,6 @@ body{
 
 header{
     background-color: #B0DACC;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
     z-index: 150;
 }
 
